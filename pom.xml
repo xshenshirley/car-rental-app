@@ -96,7 +96,7 @@
 				</executions>
 				<configuration>
 					<executable>ng</executable>
-					<workingDirectory>/ui</workingDirectory>
+					<workingDirectory>src/main/resources/ui</workingDirectory>
 					<arguments>
 						<argument>build</argument>
 					</arguments>
