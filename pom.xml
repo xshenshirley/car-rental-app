@@ -96,7 +96,7 @@
 				</executions>
 				<configuration>
 					<executable>ng</executable>
-					<workingDirectory>/ui</workingDirectory>
+					<workingDirectory>src/main/resources/frontend.angular-app</workingDirectory>
 					<arguments>
 						<argument>build</argument>
 					</arguments>
